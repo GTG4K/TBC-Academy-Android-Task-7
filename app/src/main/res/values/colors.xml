@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="coal">#0C0D11</color>
+    <color name="charcoal">#13141B</color>
+    <color name="bleach">#7D83A3</color>
+    <color name="dust">#807D83A3</color>
+    <color name="flamingo">#B93753</color>
+    <color name="purple">#DA70D6</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

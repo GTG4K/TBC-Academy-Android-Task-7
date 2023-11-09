@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TBC-Academy-Android-Task-7</string>
+    <string name="add_item">Add Item</string>
+    <string name="error_no_value">Field value is required.</string>
+    <string name="error_only_numbers">Field value Should only contain numbers.</string>
+    <string name="error_only_characters">Field value Should only contain characters.</string>
+    <string name="field_is_numeric">Field is numeric</string>
+    <string name="enter_your_field">Enter your Field..</string>
+    <string name="field">Field</string>
+</resources>
